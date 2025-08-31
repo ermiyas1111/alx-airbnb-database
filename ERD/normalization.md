@@ -1,5 +1,4 @@
-updated ER diagram
-erDiagram
+    erDiagram
     LOCATIONS {
         UUID location_id PK
         string street
